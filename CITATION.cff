@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Shakevsky"
+    given-names: "Alon"
+  - family-names: "Ronen"
+    given-names: "Eyal"
+  - family-names: "Wool"
+    given-names: "Avishai"
+  title: "Trust Dies in Darkness: Shedding Light on Samsung's TrustZone Keymaster Design"
+  conference:
+      name: "31th {USENIX} Security Symposium"
+      city: "Boston"
+      date-start: "2022-08-10"
+  year: 2022
+  month: "Aug"
+
