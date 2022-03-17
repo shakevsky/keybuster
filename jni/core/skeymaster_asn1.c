@@ -205,7 +205,7 @@ int should_mark_hidden_tag(keymaster_tag_t tag)
     */
     if (0x90001451 == tag ||
         (0x900002c6 <= tag && tag < 0x900002ce) ||
-        (tag < 0x9000138f && 0x900003e8 >= tag)) {
+        (0x900003e8 <= tag && tag < 0x9000138f)) {
         return 1;
     }
 
