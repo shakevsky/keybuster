@@ -22,7 +22,7 @@ If you found it useful, please cite our paper:
 
 The paper can be found at:
 
-- [USENIX Security 22 paper](https://TBD)
+- [USENIX Security 22 paper](https://www.usenix.org/conference/usenixsecurity22/presentation/shakevsky)
 - [Extended preprint paper (IACR ePrint)](https://eprint.iacr.org/2022/208)
 
 ### Abstract
